@@ -1,6 +1,6 @@
 # rinex-reader
 
-[Georinex](https://github.com/geospace-code/georinex) is a Python RINEX OBS and NAV reade,.
+[Georinex](https://github.com/geospace-code/georinex) is a Python RINEX OBS and NAV reader.
 
 Work in progress, fixing old Kai Borre Matlab code to run in Octave and hence be callable by Python to work with RINEX data
 
